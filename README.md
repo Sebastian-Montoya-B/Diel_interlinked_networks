@@ -1,6 +1,6 @@
 # Diel_interlinked_networks
 
-Supplement for "Diel variation in the interlinked patterns of coupled antagonistic-mutualistic networks is associated with limited perturbation spread".
+Supplement for Montoya-Bustamante et al. "Diel variation in the interlinked patterns of coupled antagonistic-mutualistic networks is associated with limited perturbation spread", Journal of Ecology.
 
 ## Instructions
 
