@@ -1,4 +1,4 @@
-# Diel_interlinked
+# Diel_interlinked_networks
 
 Supplement for "Diel variation in the interlinked patterns of coupled antagonistic-mutualistic networks is associated with limited perturbation spread".
 
